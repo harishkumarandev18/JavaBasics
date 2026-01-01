@@ -1,2 +1,1 @@
-# JavaBasics
-Java basic programs
+JavaBasics
