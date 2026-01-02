@@ -7,9 +7,9 @@ public class countEvenNum {
 
 	public static void main(String[] args) throws IOException {
 		
-		Scanner r = new Scanner(System.in);
+		Scanner obj = new Scanner(System.in);
 		System.out.println("Enter the number range");
-		int num = r.nextInt();
+		int num = obj.nextInt();
 		int count=0;
 		
 		// count the even numbers
